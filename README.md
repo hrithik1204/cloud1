@@ -1,2 +1,2 @@
 # cloud1
-This is a prototype of the upcoming dextro.
+Hack Wifi with this code and just do it.
